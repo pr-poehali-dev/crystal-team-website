@@ -122,8 +122,7 @@ const Index = () => {
             </Button>
             <Button
               size="lg"
-              variant="outline"
-              className="border-white text-white hover:bg-white/10 text-lg px-8"
+              className="bg-crystal-blue hover:bg-crystal-blue/90 text-white text-lg px-8"
               onClick={() => scrollToSection('news')}
             >
               <Icon name="Newspaper" className="mr-2" size={20} />
